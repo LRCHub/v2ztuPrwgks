@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "心よ原始に戻れ",
+  "base_artist": "高橋洋子",
+  "createdAt": "2025-12-21T10:23:55.965289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kokoro yo Genshi ni Modore 2020 [心よ原始に戻れ 2020]",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/01_Kokoro_yo_Genshi_ni_Modore_2020_[心よ原始に戻れ_2020]_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kokoro yo genshi ni modore [心よ原始に戻れ]",
+      "artist": "All That Jazz",
+      "has_synced": true,
+      "path": "select/02_Kokoro_yo_genshi_ni_modore_[心よ原始に戻れ]_All_That_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/03_心よ原始に戻れ_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ (Naked Flower Version)",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/04_心よ原始に戻れ_(Naked_Flower_Version)_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/05_心よ原始に戻れ_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ (Naked Flower Version)",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/06_心よ原始に戻れ_(Naked_Flower_Version)_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/07_心よ原始に戻れ_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ",
+      "artist": "Yoko Takahashi",
+      "has_synced": false,
+      "path": "select/08_心よ原始に戻れ_Yoko_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/09_心よ原始に戻れ_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/10_心よ原始に戻れ_高橋洋子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ ～2012 version～",
+      "artist": "宮村優子",
+      "has_synced": true,
+      "path": "select/11_心よ原始に戻れ_~2012_version~_宮村優子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ ～2012 version～ [instrumental]",
+      "artist": "宮村優子",
+      "has_synced": true,
+      "path": "select/12_心よ原始に戻れ_~2012_version~_[instrumental]_宮村優子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ(Naked Flower Version)",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/13_心よ原始に戻れ(Naked_Flower_Version)_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ ～2012 version～ [instrumental]",
+      "artist": "Yuko Miyamura",
+      "has_synced": true,
+      "path": "select/14_心よ原始に戻れ_~2012_version~_[instrumental]_Yuko_Miyamura.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ [instrumental]",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/15_心よ原始に戻れ_[instrumental]_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ ～2012 version～",
+      "artist": "Yuko Miyamura",
+      "has_synced": true,
+      "path": "select/16_心よ原始に戻れ_~2012_version~_Yuko_Miyamura.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "心よ原始に戻れ 〜2012 Version〜 (Off Vocal)",
+      "artist": "宮村優子",
+      "has_synced": true,
+      "path": "select/17_心よ原始に戻れ_〜2012_Version〜_(Off_Vocal)_宮村優子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心よ原始に戻れ",
+      "artist": "高橋 洋子",
+      "has_synced": false,
+      "path": "select/pl_01_心よ原始に戻れ_高橋_洋子.txt"
+    }
+  ]
+}
